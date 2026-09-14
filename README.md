@@ -14,4 +14,4 @@ An interactive Excel dashboard built on **45,000+ transactional records** to ana
 * **Category Contribution:** Classic category leads in total sales volume, while Supreme drives high Average Order Value (AOV).
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Screenshot_2026-09-14_202236.png)
+![Dashboard Preview](https://github.com/vanshikag6211-ops/PIZZA_SALES_EXCEL_DASHBOARD/blob/968d32499da9057b28ce3f79155f9bb3eb6961ef/Screenshot%202026-09-14%20202236.png)
